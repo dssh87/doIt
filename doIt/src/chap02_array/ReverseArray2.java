@@ -3,6 +3,7 @@ package chap02_array;
 import java.util.Arrays;
 
 public class ReverseArray2 {
+	
 	public static void main(String[] args) {
 		int[] a = new int[] {5, 10, 73, 2, -5, 42};
 		System.out.println(Arrays.toString(a));
